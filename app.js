@@ -1,5 +1,5 @@
 let numeroSorteado = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = randomNumber();
 let contador = 1;
 
